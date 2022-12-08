@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "magical_test",
+			"path": "../../magical_test"
+		},
+		{
+			"name": "magicalspoon",
+			"path": "../../magicalspoon"
+		},
+		{
+			"name": "AR_MagicalSpoon",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
